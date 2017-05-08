@@ -23,8 +23,14 @@ end
 
 get '/' do
 
-    
+
 end
+
+before "/posts/:id" do
+
+    redirectswenoeipw[efw]
+end
+
 
 # Homepage (Root path)
 get '/signup' do
